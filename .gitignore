@@ -1,0 +1,4 @@
+# APKs live in GitHub Releases, never in git history.
+*.apk
+*.aab
+.DS_Store
