@@ -73,6 +73,7 @@ Belum. Kitasaku saat ini hanya untuk Android.
 
 | Versi | Build | Isi utama |
 |---|---|---|
+| [1.3.0](https://github.com/fresp/kitasaku-releases/releases/tag/v1.3.0) | 20 | Tambah pokok untuk tanggungan yang bertambah, uang masuk langsung tercatat di rekening |
 | [1.2.0](https://github.com/fresp/kitasaku-releases/releases/tag/v1.2.0) | 19 | Bayar beberapa tanggungan sekaligus, Detail Pembayaran per batch di Riwayat |
 | [1.1.0](https://github.com/fresp/kitasaku-releases/releases/tag/v1.1.0) | 18 | Kolaborasi Ruang Keluarga, notifikasi tanggungan, pemberitahuan versi baru |
 
